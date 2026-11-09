@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pocorall/scaloid/commit/b9d13c782f6b8364c4f63e50df74054802b31127",
       "git:hexsha": "b9d13c782f6b8364c4f63e50df74054802b31127",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-09T19:04:35.714151+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pocorall/scaloid/commit/35b3fb89dfbcadaecb55cdedd626e0aa14028870",
